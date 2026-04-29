@@ -1,2 +1,2 @@
 # powerbi-project
- Power BI Dashboard 
+ Built Hospital patients dashboard using Power BI 
